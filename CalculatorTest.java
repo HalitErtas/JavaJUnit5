@@ -6,13 +6,6 @@ ASSIGNMENT INFO: HOMEWORK 1, each student is expected to create a data-driven te
 JUnit5.
 
  */
-
-
-
-
-
-
-
 package org.example;
 
 import org.junit.jupiter.api.Test;
